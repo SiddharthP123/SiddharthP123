@@ -17,5 +17,5 @@ I like building projects that teach me things — mostly at the intersection of 
 
 Feel free to connect if you're into finance-adjacent side projects, human-centred design, or robotics!
 
-Primary Email: sp1025@ic.ac.uk
-Personal Email: ppremanand2017@gmail.com
+- Primary Email: sp1025@ic.ac.uk
+- Personal Email: ppremanand2017@gmail.com
