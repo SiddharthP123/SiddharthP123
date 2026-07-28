@@ -2,7 +2,7 @@
 
 a 2nd-year Design Engineering MEng student at Imperial College London.
 
-I like building projects that teach me things — mostly at the intersection of **finance**, **human-centred design engineering**, and (increasingly) **robotics & automotive**.
+I like building projects that teach me things — mostly at the intersection of **finance**, **human-centred design engineering**, and (increasingly) **robotics & automotive systems**.
 
 - Self-teaching quantitative finance through progressively harder Python projects.
 - Designing hardware-linked safety apps as part of Imperial's Design Engineering programme.
