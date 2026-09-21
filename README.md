@@ -12,6 +12,7 @@ I like building projects that teach me things — mostly at the intersection of 
 
 - **[Monte Carlo Simulation Model](https://github.com/SiddharthP123/Project-1-Monte-Carlo-Simulation-Model)** — A 10-part journey from manual stock-return calculations to a live Monte Carlo/VaR simulator with a Streamlit front end (GBM, VaR, Merton Jump Diffusion).
 - **[SafeLink Mobile App](https://github.com/SiddharthP123/SafeLink-MobileApp)** — A safety wristband companion app built with a team of 5 for Imperial's Design Engineering programme. Paired wristbands alert each other in real time over BLE + Firebase, with GPS sharing and SMS escalation.
+- **[Kelly Poker Simulator](https://github.com/SiddharthP123/Project-3-Kelly-Poker-Simulator)** — A full-stack Texas Hold'em simulator against AI opponents, sizing every bet with the Kelly Criterion; FastAPI + PostgreSQL backend, React frontend, deployed and playable live.
 
 ### Reach Out:
 
